@@ -1,0 +1,53 @@
+name: rmb_connect_app
+description: "RMB Connect Business Networking Mobile Application"
+publish_to: 'none'
+version: 1.0.22+23
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  font_awesome_flutter: ^11.0.0
+  google_fonts: ^8.2.1
+  url_launcher: ^6.2.5
+  http: ^1.6.0
+  http_parser: ^4.1.2
+  shared_preferences: ^2.5.5
+  mobile_scanner: ^7.4.0
+  flutter_ringtone_player: ^4.0.0+4
+  marquee: ^2.3.0
+  file_picker: ^13.1.0
+  csv: ^8.0.0
+  universal_html: ^2.3.0
+  image_picker: ^1.2.3
+  # Cross-platform print / PDF export — dart:html only works on web.
+  pdf: ^3.13.0
+  printing: ^5.15.0
+  share_plus: ^13.3.0
+  # Firebase Cloud Messaging for referral push notifications. Android Firebase
+  # configuration and app startup wiring live in lib/services/push_notification_service.dart.
+  firebase_core: ^4.15.0
+  firebase_messaging: ^16.7.0
+  flutter_local_notifications: ^22.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  web:
+    generate: true
+    image_path: "assets/images/app_icon.png"
+  image_path: "assets/images/app_icon.png"

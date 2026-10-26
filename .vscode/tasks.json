@@ -1,0 +1,45 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build Release APK",
+			"type": "shell",
+			"command": "C:\\Users\\mylogical\\flutter\\bin\\flutter.bat",
+			"args": [
+				"build",
+				"apk",
+				"--release",
+				"--no-pub"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Release Gradle Lock",
+			"type": "shell",
+			"command": "C:\\Windows\\System32\\taskkill.exe",
+			"args": [
+				"/PID",
+				"13204",
+				"/F"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Build Release APK",
+			"type": "shell",
+			"command": "C:\\Users\\mylogical\\flutter\\bin\\flutter.bat",
+			"args": [
+				"build",
+				"apk",
+				"--release",
+				"--no-pub"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}

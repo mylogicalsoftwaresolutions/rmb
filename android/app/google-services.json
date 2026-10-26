@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206745197645",
+    "project_id": "rmb-connect-531eb",
+    "storage_bucket": "rmb-connect-531eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206745197645:android:325ada4170cf71e1525004",
+        "android_client_info": {
+          "package_name": "com.rmbconnect.app.rmb_connect_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5RZClJmZMdoLkyyfO-bgNlZ2l4F-sZck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

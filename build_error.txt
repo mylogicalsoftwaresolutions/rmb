@@ -1,0 +1,287 @@
+[ +175 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[   +5 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[   +2 ms] executing: [C:\Users\mylogical\flutter/] git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[ +163 ms] Exit code 0 from: git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[        ] 2026-07-23 10:56:21 -0700
+[  +29 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +5 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[ +139 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[   +4 ms] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[ +236 ms] Skipping pub get: version match.
+[ +256 ms] Found plugin url_launcher at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher-6.3.2\
+[  +11 ms] Found plugin url_launcher_windows at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_windows-3.1.6\
+[  +13 ms] Found plugin url_launcher_web at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_web-2.4.3\
+[   +9 ms] Found plugin url_launcher_macos at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_macos-3.2.6\
+[   +4 ms] Found plugin url_launcher_linux at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_linux-3.2.3\
+[   +5 ms] Found plugin url_launcher_ios at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_ios-6.4.2\
+[   +5 ms] Found plugin url_launcher_android at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.33\
+[  +27 ms] Found plugin shared_preferences at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +5 ms] Found plugin shared_preferences_windows at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +9 ms] Found plugin path_provider_windows at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[  +13 ms] Found plugin shared_preferences_web at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +4 ms] Found plugin shared_preferences_linux at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +3 ms] Found plugin path_provider_linux at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.2\
+[   +6 ms] Found plugin shared_preferences_foundation at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.7\
+[   +6 ms] Found plugin shared_preferences_android at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.28\
+[   +5 ms] Found plugin share_plus at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\share_plus-13.3.0\
+[  +21 ms] Found plugin path_provider at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.6\
+[   +3 ms] Found plugin path_provider_foundation at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.6.0\
+[  +31 ms] Found plugin path_provider_android at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.3.1\
+[   +4 ms] Found plugin jni_flutter at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\jni_flutter-1.0.3\
+[   +3 ms] Found plugin jni at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.3\
+[  +17 ms] Found plugin printing at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\printing-5.15.1\
+[  +32 ms] Found plugin mobile_scanner at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\mobile_scanner-7.4.2\
+[   +9 ms] Found plugin image_picker at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.2.3\
+[   +4 ms] Found plugin image_picker_windows at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_windows-0.2.2\
+[   +5 ms] Found plugin file_selector_windows at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+6\
+[   +7 ms] Found plugin image_picker_macos at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.2+1\
+[   +4 ms] Found plugin file_selector_macos at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.5+1\
+[   +3 ms] Found plugin image_picker_linux at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.2\
+[   +2 ms] Found plugin file_selector_linux at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_linux-0.9.4+1\
+[   +3 ms] Found plugin image_picker_ios at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.13+7\
+[   +4 ms] Found plugin image_picker_for_web at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.1.1\
+[   +3 ms] Found plugin image_picker_android at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.13+23\
+[   +2 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.35\
+[   +9 ms] Found plugin flutter_ringtone_player at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_ringtone_player-4.0.0+4\
+[   +4 ms] Found plugin flutter_local_notifications at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-22.3.1\
+[   +4 ms] Found plugin flutter_local_notifications_windows at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_windows-3.1.1\
+[   +5 ms] Found plugin flutter_local_notifications_web at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_web-1.0.0\
+[   +4 ms] Found plugin flutter_local_notifications_linux at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_linux-8.0.1\
+[   +5 ms] Found plugin firebase_messaging at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-16.7.0\
+[   +3 ms] Found plugin firebase_messaging_web at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging_web-4.2.5\
+[   +6 ms] Found plugin firebase_core at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-4.15.0\
+[   +3 ms] Found plugin firebase_core_web at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-3.12.0\
+[   +8 ms] Found plugin file_picker at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-13.1.0\
+[   +3 ms] Found plugin windows_file_picker at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\windows_file_picker-2.0.0\
+[   +5 ms] Found plugin file_picker_web at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker_web-4.0.0\
+[   +3 ms] Found plugin file_picker_linux at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker_linux-2.0.0\
+[   +5 ms] Found plugin file_picker_darwin at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker_darwin-2.1.2\
+[   +2 ms] Found plugin android_file_picker at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\android_file_picker-2.0.0\
+[ +175 ms] Found plugin url_launcher at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher-6.3.2\
+[   +2 ms] Found plugin url_launcher_windows at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_windows-3.1.6\
+[   +6 ms] Found plugin url_launcher_web at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_web-2.4.3\
+[   +6 ms] Found plugin url_launcher_macos at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_macos-3.2.6\
+[   +2 ms] Found plugin url_launcher_linux at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_linux-3.2.3\
+[   +2 ms] Found plugin url_launcher_ios at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_ios-6.4.2\
+[   +3 ms] Found plugin url_launcher_android at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.33\
+[  +12 ms] Found plugin shared_preferences at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +2 ms] Found plugin shared_preferences_windows at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +5 ms] Found plugin path_provider_windows at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[   +7 ms] Found plugin shared_preferences_web at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +2 ms] Found plugin shared_preferences_linux at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +3 ms] Found plugin path_provider_linux at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.2\
+[   +5 ms] Found plugin shared_preferences_foundation at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.7\
+[   +2 ms] Found plugin shared_preferences_android at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.28\
+[   +4 ms] Found plugin share_plus at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\share_plus-13.3.0\
+[  +18 ms] Found plugin path_provider at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.6\
+[   +3 ms] Found plugin path_provider_foundation at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.6.0\
+[  +13 ms] Found plugin path_provider_android at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.3.1\
+[   +3 ms] Found plugin jni_flutter at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\jni_flutter-1.0.3\
+[   +2 ms] Found plugin jni at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.3\
+[   +9 ms] Found plugin printing at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\printing-5.15.1\
+[  +23 ms] Found plugin mobile_scanner at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\mobile_scanner-7.4.2\
+[   +7 ms] Found plugin image_picker at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.2.3\
+[   +2 ms] Found plugin image_picker_windows at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_windows-0.2.2\
+[   +5 ms] Found plugin file_selector_windows at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+6\
+[   +5 ms] Found plugin image_picker_macos at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.2+1\
+[   +2 ms] Found plugin file_selector_macos at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.5+1\
+[   +2 ms] Found plugin image_picker_linux at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.2\
+[   +2 ms] Found plugin file_selector_linux at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_linux-0.9.4+1\
+[   +2 ms] Found plugin image_picker_ios at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.13+7\
+[   +2 ms] Found plugin image_picker_for_web at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.1.1\
+[   +2 ms] Found plugin image_picker_android at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.13+23\
+[   +2 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.35\
+[   +6 ms] Found plugin flutter_ringtone_player at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_ringtone_player-4.0.0+4\
+[   +2 ms] Found plugin flutter_local_notifications at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-22.3.1\
+[   +4 ms] Found plugin flutter_local_notifications_windows at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_windows-3.1.1\
+[   +4 ms] Found plugin flutter_local_notifications_web at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_web-1.0.0\
+[   +2 ms] Found plugin flutter_local_notifications_linux at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_linux-8.0.1\
+[   +3 ms] Found plugin firebase_messaging at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-16.7.0\
+[   +2 ms] Found plugin firebase_messaging_web at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging_web-4.2.5\
+[   +5 ms] Found plugin firebase_core at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-4.15.0\
+[   +2 ms] Found plugin firebase_core_web at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-3.12.0\
+[   +9 ms] Found plugin file_picker at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-13.1.0\
+[   +3 ms] Found plugin windows_file_picker at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\windows_file_picker-2.0.0\
+[   +4 ms] Found plugin file_picker_web at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker_web-4.0.0\
+[   +2 ms] Found plugin file_picker_linux at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker_linux-2.0.0\
+[   +2 ms] Found plugin file_picker_darwin at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker_darwin-2.1.2\
+[   +2 ms] Found plugin android_file_picker at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\android_file_picker-2.0.0\
+[  +34 ms] Skipping generating web_plugin_registrant.dart because it is up-to-date.
+[  +98 ms] Found plugin url_launcher at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher-6.3.2\
+[   +2 ms] Found plugin url_launcher_windows at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_windows-3.1.6\
+[   +5 ms] Found plugin url_launcher_web at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_web-2.4.3\
+[   +5 ms] Found plugin url_launcher_macos at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_macos-3.2.6\
+[   +2 ms] Found plugin url_launcher_linux at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_linux-3.2.3\
+[   +2 ms] Found plugin url_launcher_ios at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_ios-6.4.2\
+[   +2 ms] Found plugin url_launcher_android at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.33\
+[  +11 ms] Found plugin shared_preferences at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +2 ms] Found plugin shared_preferences_windows at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +3 ms] Found plugin path_provider_windows at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[   +5 ms] Found plugin shared_preferences_web at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +1 ms] Found plugin shared_preferences_linux at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +2 ms] Found plugin path_provider_linux at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.2\
+[   +4 ms] Found plugin shared_preferences_foundation at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.7\
+[   +2 ms] Found plugin shared_preferences_android at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.28\
+[   +2 ms] Found plugin share_plus at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\share_plus-13.3.0\
+[  +10 ms] Found plugin path_provider at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.6\
+[   +2 ms] Found plugin path_provider_foundation at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.6.0\
+[  +13 ms] Found plugin path_provider_android at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.3.1\
+[   +2 ms] Found plugin jni_flutter at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\jni_flutter-1.0.3\
+[   +2 ms] Found plugin jni at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.3\
+[   +8 ms] Found plugin printing at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\printing-5.15.1\
+[  +18 ms] Found plugin mobile_scanner at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\mobile_scanner-7.4.2\
+[   +4 ms] Found plugin image_picker at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.2.3\
+[   +1 ms] Found plugin image_picker_windows at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_windows-0.2.2\
+[   +3 ms] Found plugin file_selector_windows at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+6\
+[   +3 ms] Found plugin image_picker_macos at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.2+1\
+[   +2 ms] Found plugin file_selector_macos at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.5+1\
+[   +2 ms] Found plugin image_picker_linux at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.2\
+[   +2 ms] Found plugin file_selector_linux at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_linux-0.9.4+1\
+[   +2 ms] Found plugin image_picker_ios at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.13+7\
+[   +2 ms] Found plugin image_picker_for_web at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.1.1\
+[   +2 ms] Found plugin image_picker_android at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.13+23\
+[   +2 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.35\
+[   +6 ms] Found plugin flutter_ringtone_player at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_ringtone_player-4.0.0+4\
+[   +2 ms] Found plugin flutter_local_notifications at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-22.3.1\
+[   +3 ms] Found plugin flutter_local_notifications_windows at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_windows-3.1.1\
+[   +3 ms] Found plugin flutter_local_notifications_web at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_web-1.0.0\
+[   +2 ms] Found plugin flutter_local_notifications_linux at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_linux-8.0.1\
+[   +3 ms] Found plugin firebase_messaging at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-16.7.0\
+[   +1 ms] Found plugin firebase_messaging_web at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging_web-4.2.5\
+[   +3 ms] Found plugin firebase_core at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-4.15.0\
+[   +2 ms] Found plugin firebase_core_web at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-3.12.0\
+[   +5 ms] Found plugin file_picker at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-13.1.0\
+[   +2 ms] Found plugin windows_file_picker at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\windows_file_picker-2.0.0\
+[   +4 ms] Found plugin file_picker_web at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker_web-4.0.0\
+[   +2 ms] Found plugin file_picker_linux at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker_linux-2.0.0\
+[   +2 ms] Found plugin file_picker_darwin at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker_darwin-2.1.2\
+[   +2 ms] Found plugin android_file_picker at C:\Users\mylogical\AppData\Local\Pub\Cache\hosted\pub.dev\android_file_picker-2.0.0\
+[  +28 ms] Generating C:\Users\mylogical\Projects\New_App\android\app\src\main\java\io\flutter\plugins\GeneratedPluginRegistrant.java
+[   +4 ms] Skipping generating GeneratedPluginRegistrant.java because it is up-to-date.
+[  +19 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[   +4 ms] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[   +3 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +7 ms] Skipping generating GeneratedPluginRegistrant.h because it is up-to-date.
+[   +4 ms] Skipping generating GeneratedPluginRegistrant.m because it is up-to-date.
+[   +5 ms] Skipping generating GeneratedPluginRegistrant.swift because it is up-to-date.
+[ +353 ms] executing: C:\Program Files\Android\Android Studio\jbr\bin\java -version
+[ +333 ms] Exit code 0 from: C:\Program Files\Android\Android Studio\jbr\bin\java -version
+[        ] openjdk version "25.0.3" 2026-04-21
+           OpenJDK Runtime Environment (build 25.0.3+-15898627-b508.16)
+           OpenJDK 64-Bit Server VM (build 25.0.3+-15898627-b508.16, mixed mode)
+[   +3 ms] executing: C:\Program Files\Android\Android Studio\jbr\bin\java -version
+[ +288 ms] Exit code 0 from: C:\Program Files\Android\Android Studio\jbr\bin\java -version
+[        ] openjdk version "25.0.3" 2026-04-21
+           OpenJDK Runtime Environment (build 25.0.3+-15898627-b508.16)
+           OpenJDK 64-Bit Server VM (build 25.0.3+-15898627-b508.16, mixed mode)
+[  +22 ms] Top-level Gradle build file not found, skipping migration of task "clean".
+[   +3 ms] executing: C:\Users\mylogical\jdk-17\bin\java --version
+[ +253 ms] Exit code 0 from: C:\Users\mylogical\jdk-17\bin\java --version
+[        ] openjdk 17.0.15 2025-04-15 LTS
+           OpenJDK Runtime Environment Microsoft-11369865 (build 17.0.15+6-LTS)
+           OpenJDK 64-Bit Server VM Microsoft-11369865 (build 17.0.15+6-LTS, mixed mode, sharing)
+[   +7 ms] CMake project not found, skipping support Android 15 16k page size migration.
+[  +29 ms] The developer has already configured the Built-In Kotlin flag, skipping migration.
+[   +2 ms] The developer has already configured the new DSL flag, skipping migration.
+[   +8 ms] Using gradle from C:\Users\mylogical\Projects\New_App\android\gradlew.bat.
+[  +35 ms] LocalFile: 'C:\Users\mylogical\Projects\New_App\android\build.gradle.kts' doesn't provide an AGP version. Checking settings.
+[   +1 ms] LocalFile: 'C:\Users\mylogical\Projects\New_App\android\settings.gradle.kts' provides AGP version: 9.0.1
+[  +65 ms] Running Gradle task 'assembleRelease'...
+[   +2 ms] executing: [C:\Users\mylogical\Projects\New_App\android/] C:\Users\mylogical\Projects\New_App\android\gradlew.bat --full-stacktrace --info -Pverbose=true -Ptarget-platform=android-arm,android-arm64,android-x64 -Ptarget=lib\main.dart -Pbase-application-name=android.app.Application -Pdart-defines=RkxVVFRFUl9WRVJTSU9OPTMuNDQuOA==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049MDU4ZTBhZjJjMg==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049MGNkNjEwNzE3Yg==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My4xMi4y -Pdart-obfuscation=false -Ptrack-widget-creation=true -Ptree-shake-icons=true assembleRelease
+[+2159 ms] Initialized native services in: C:\Users\mylogical\.gradle\native
+[   +4 ms] Initialized jansi services in: C:\Users\mylogical\.gradle\native
+[+1032 ms] To honour the JVM settings for this build a single-use Daemon process will be forked. For more on this, please refer to https://docs.gradle.org/9.1.0/userguide/gradle_daemon.html#sec:disabling_the_daemon in the Gradle documentation.
+[ +234 ms] Starting process 'Gradle build daemon'. Working directory: C:\Users\mylogical\.gradle\daemon\9.1.0 Command: C:\Users\mylogical\jdk-17\bin\java.exe --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.invoke=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.prefs/java.util.prefs=ALL-UNNAMED --add-exports=jdk.compiler/com.sun.tools.javac.api=ALL-UNNAMED --add-exports=jdk.compiler/com.sun.tools.javac.util=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.prefs/java.util.prefs=ALL-UNNAMED --add-opens=java.base/java.nio.charset=ALL-UNNAMED --add-opens=java.base/java.net=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens=java.xml/javax.xml.namespace=ALL-UNNAMED --add-opens=java.base/java.time=ALL-UNNAMED -XX:MaxMetaspaceSize=384m -XX:ReservedCodeCacheSize=64m -Xmx2048m -Dfile.encoding=windows-1252 -Duser.country=IN -Duser.language=en -Duser.variant -cp C:\Users\mylogical\.gradle\wrapper\dists\gradle-9.1.0-all\7wzd0jkjit61aq2p43wpjgij9\gradle-9.1.0\lib\gradle-daemon-main-9.1.0.jar -javaagent:C:\Users\mylogical\.gradle\wrapper\dists\gradle-9.1.0-all\7wzd0jkjit61aq2p43wpjgij9\gradle-9.1.0\lib\agents\gradle-instrumentation-agent-9.1.0.jar org.gradle.launcher.daemon.bootstrap.GradleDaemon 9.1.0
+[ +373 ms] Successfully started process 'Gradle build daemon'
+[+4568 ms] An attempt to start the daemon took 5.05 secs.
+[ +321 ms] The client will now receive all logging from the daemon (pid: 3640). The daemon log file: C:\Users\mylogical\.gradle\daemon\9.1.0\daemon-3640.out.log
+[   +1 ms] Daemon will be stopped at the end of the build 
+[+10988 ms] Invalidating in-memory cache of C:\Users\mylogical\.gradle\caches\9.1.0\fileHashes\fileHashes.bin
+[ +104 ms] Using 1 worker leases.
+[+1025 ms] Received JVM installation metadata from 'C:\Users\mylogical\jdk-17': {JAVA_HOME=C:\Users\mylogical\jdk-17, JAVA_VERSION=17.0.15, JAVA_VENDOR=Microsoft, RUNTIME_NAME=OpenJDK Runtime Environment, RUNTIME_VERSION=17.0.15+6-LTS, VM_NAME=OpenJDK 64-Bit Server VM, VM_VERSION=17.0.15+6-LTS, VM_VENDOR=Microsoft, OS_ARCH=amd64}
+[+1270 ms] Watching the file system is configured to be enabled if available
+[ +104 ms] Now considering [C:\Users\mylogical\Projects\New_App\android] as hierarchies to watch
+[   +1 ms] File system watching is active
+[+2326 ms] Starting Build
+[+2178 ms] Invalidating in-memory cache of C:\Users\mylogical\.gradle\caches\9.1.0\fileHashes\fileHashes.bin
+[        ] Invalidating in-memory cache of C:\Users\mylogical\.gradle\caches\9.1.0\fileHashes\resourceHashesCache.bin
+[+4987 ms] Invalidating in-memory cache of C:\Users\mylogical\.gradle\caches\9.1.0\fileHashes\kotlinDslCompileAvoidanceClasspathHashCache.bin
+[        ] Invalidating in-memory cache of C:\Users\mylogical\.gradle\caches\9.1.0\fileHashes\fileHashes.bin
+[        ] Invalidating in-memory cache of C:\Users\mylogical\.gradle\caches\9.1.0\fileHashes\resourceHashesCache.bin
+[ +297 ms] Invalidating in-memory cache of C:\Users\mylogical\.gradle\caches\journal-1\file-access.bin
+[+1009 ms] Now considering [C:\Users\mylogical\flutter\packages\flutter_tools\gradle, C:\Users\mylogical\Projects\New_App\android] as hierarchies to watch
+[+4290 ms] Invalidating in-memory cache of C:\Users\mylogical\.gradle\caches\9.1.0\fileHashes\kotlinDslCompileAvoidanceClasspathHashCache.bin
+[        ] Invalidating in-memory cache of C:\Users\mylogical\.gradle\caches\9.1.0\fileHashes\fileHashes.bin
+[        ] Invalidating in-memory cache of C:\Users\mylogical\.gradle\caches\9.1.0\fileHashes\resourceHashesCache.bin
+[ +187 ms] Invalidating in-memory cache of C:\Users\mylogical\.gradle\caches\journal-1\file-access.bin
+[+2317 ms] > Configure project :gradle
+[        ] Evaluating project ':gradle' using build file 'C:\Users\mylogical\flutter\packages\flutter_tools\gradle\build.gradle.kts'.
+[+2215 ms] Invalidating in-memory cache of C:\Users\mylogical\.gradle\caches\journal-1\file-access.bin
+[ +175 ms] Invalidating in-memory cache of C:\Users\mylogical\.gradle\caches\9.1.0\fileHashes\kotlinDslCompileAvoidanceClasspathHashCache.bin
+[        ] Invalidating in-memory cache of C:\Users\mylogical\.gradle\caches\9.1.0\fileHashes\fileHashes.bin
+[        ] Invalidating in-memory cache of C:\Users\mylogical\.gradle\caches\9.1.0\fileHashes\resourceHashesCache.bin
+[  +91 ms] Resolved plugin [id: 'org.gradle.java-gradle-plugin']
+[        ] Resolved plugin [id: 'org.gradle.groovy']
+[ +727 ms] Resolved plugin [id: 'org.gradle.kotlin.kotlin-dsl', version: '6.2.0']
+[        ] Resolved plugin [id: 'org.jetbrains.kotlin.jvm', version: '2.2.20']
+[+2789 ms] Invalidating in-memory cache of C:\Users\mylogical\.gradle\caches\journal-1\file-access.bin
+[ +225 ms] Invalidating in-memory cache of C:\Users\mylogical\.gradle\caches\9.1.0\fileHashes\kotlinDslCompileAvoidanceClasspathHashCache.bin
+[   +1 ms] Invalidating in-memory cache of C:\Users\mylogical\.gradle\caches\9.1.0\fileHashes\fileHashes.bin
+[   +1 ms] Invalidating in-memory cache of C:\Users\mylogical\.gradle\caches\9.1.0\fileHashes\resourceHashesCache.bin
+[ +518 ms] Running 1 shutdown hook
+[  +23 ms] Shutdown hooks complete
+[ +259 ms] exiting with code 0
+Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? 
